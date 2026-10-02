@@ -8,6 +8,6 @@ ENV/
 .idea/
 .env
 .env.local
-.streamlit/
+.streamlit/secrets.toml
 .DS_Store
 Thumbs.db

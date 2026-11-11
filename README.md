@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/asset-allocation-backtester](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/asset-allocation-backtester).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Asset Allocation Backtester
 
 Advisor-focused Streamlit tool to compare allocation strategies under annual rebalance versus buy-and-hold behavior.
